@@ -1,0 +1,25 @@
+<svg width="1200" height="260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#g)"/>
+
+  <text x="50%" y="45%" text-anchor="middle"
+        fill="#38bdf8"
+        font-size="42"
+        font-family="Arial"
+        font-weight="bold">
+    High Availability HPC Cluster
+  </text>
+
+  <text x="50%" y="65%" text-anchor="middle"
+        fill="#cbd5f5"
+        font-size="18"
+        font-family="Arial">
+    Fault-tolerant • Automated • Secure • Scalable
+  </text>
+</svg>

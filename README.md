@@ -1,3 +1,5 @@
+# High Availability HPC Cluster
+
 <p align="center">
   <img src="./assests/banner.svg" alt="High Availability HPC Cluster Banner" width="100%">
 </p>
@@ -99,6 +101,14 @@ Real-time system visibility is provided through Grafana dashboards configured in
 <p align="center">
   <img src="./assests/W1_HPL_grafana.png" width="85%">
 </p>
+
+### On-Demand Web Portal Interface
+
+<p align="center">
+  <img src="./assests/ondemand.png" width="85%">
+</p>
+
+This screenshot shows the on-demand user portal where authenticated users can access their home directories and submit jobs through a secure browser interface.
 
 These dashboards display node health, resource utilization, and cluster load during benchmarking.
 
